@@ -7,7 +7,7 @@ var ano = 2027
 if ( dia <= 31 ){
     console.log("Seu dia está valido");
     
-    if ( dia <= 28 ){
+    if ( dia <= 28 ){ //Se fosse fevereiro
         console.log("Seu dia está valido");
         
 
@@ -31,3 +31,5 @@ if ( dia <= 31 ){
     console.log("Seu ano está invalido");
     
 }
+
+// teve alteração
