@@ -8,7 +8,7 @@ var nota3 = 9
 var mediaAluno = (nota1 + nota2 + nota3) / 3
 
 if ( mediaAluno > 7 ) {
-    console.log("Você está aprovado!")
+    console.log("Você está aprovado! " + nomeAluno)
     console.log("Su media final foi: " + mediaAluno)
 
 } else {
